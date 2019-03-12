@@ -32,5 +32,5 @@ end
 def kesha_maker(array)
   arr = []
   array.each do |symbol|
-    array
+    symbol(2) = $
 end 
