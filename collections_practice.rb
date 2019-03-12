@@ -34,3 +34,8 @@ def kesha_maker(array)
     symbol[2] = "$"
   end 
 end
+
+
+def find_a(array)
+  
+end   
